@@ -6,7 +6,7 @@ It is useful to launch from Spotlight.
 
 Mac OS >= 10.9
 
-## Usage
+## Install
 
 ```
 cp -a sleep.app ~/Applications
